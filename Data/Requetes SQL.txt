@@ -1,0 +1,6 @@
+// liste des espèces:
+
+select species from Forest group by species
+
+
+SELECT * FROM Forest ORDER BY `Height(cm)`  DESC where `Height(cm)`
